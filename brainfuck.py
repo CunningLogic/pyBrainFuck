@@ -3,7 +3,7 @@ import readchar
 code = ''
 ptr = 0
 pc = 0
-cells = bytearray(b'\x00' * 1000)
+cells = bytearray(b'\x00' * 30000)
 braces = {}
 
 
